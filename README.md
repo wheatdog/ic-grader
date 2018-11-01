@@ -1,6 +1,6 @@
 # IC-grader (nand2tetris part)
 
-A partial auto-grader for projects from nand2tetris in NTU CSIE1000. All codes only test on Linux.
+A partial auto-grader for projects from nand2tetris in NTU CSIE1000. All codes are only tested on Linux.
 
 ## Prerequire
 
